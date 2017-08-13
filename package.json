@@ -1,0 +1,19 @@
+{
+  "name": "mystockstatus",
+  "version": "0.0.1",
+  "description": "An Ionic project",
+  "devDependencies": {
+    "@ionic/cli-plugin-cordova": "1.6.2",
+    "@ionic/cli-plugin-gulp": "1.1.1",
+    "@ionic/cli-plugin-ionic1": "2.1.1",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "ionic": "3.7.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.5.3",
+    "sass": "^1.0.0-beta.2"
+  }
+}
